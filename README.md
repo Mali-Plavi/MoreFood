@@ -1,0 +1,4 @@
+MoreFood
+========
+
+Bukkit MoreFood plugin
